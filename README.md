@@ -1,7 +1,7 @@
 # Raven-Dev Template
 Raven-Dev is an open source developer portfolio template using Jekyll.
 
-A live version has been adapted on the Coding Raven website at <a href="http://codingraven.com/developer/" target="_blank">http://codingraven.com/developer/</a>.
+Check out the <a href="http://edmaryrosado.github.io/raven-dev" target="_blank">demo</a>.
 ## Features
 <ul>
 <li>Bootstrapped design</li>
